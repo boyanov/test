@@ -1,5 +1,5 @@
 Test
 ====
 
-This is a test Git repository.
+This is a testing Git repository.
 
