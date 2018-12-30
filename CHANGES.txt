@@ -3,6 +3,8 @@
 
 2018-12-30 (nb)
 
+Updated text files.
+
 Updated text.
 
 Updated texts, added CHANGES text file.
